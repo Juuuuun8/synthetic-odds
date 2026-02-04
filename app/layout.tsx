@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   // Google Search Consoleの所有権確認コードを入れる場所を確保
   verification: {
-    google: "ここに確認コードを入れる",
+    google: "6CcDi-L2fqB_I_10ldZl8WyXuiPHT_6YaPZTpKGxKm8",
   },
 };
 
