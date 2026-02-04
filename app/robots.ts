@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
     },
     // ※ここも本番URLに書き換えることになります
-    sitemap: 'https://example.com/sitemap.xml',
+    sitemap: 'https://odds.katasuke-web.com/sitemap.xml',
   }
 }

@@ -2,13 +2,13 @@ import { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Next.js App', // アプリ名
-    short_name: 'App',
-    description: 'Next.js App Template',
+    name: '最速合成オッズ計算機',
+    short_name: 'オッズ計算機',
+    description: '競馬や競輪などの複数のオッズから、合成オッズを計算するアプリケーションです。',
     start_url: '/',
     display: 'standalone',
-    background_color: '#ffffff',
-    theme_color: '#ffffff',
+    background_color: '#0f172a',
+    theme_color: '#0f172a',
     icons: [
       {
         src: '/icon.png', // ※publicフォルダにアイコン画像を置くのを忘れずに！

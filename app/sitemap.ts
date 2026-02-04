@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // ※実際にアプリを作るときは、ここを本番のURL（例: https://money.katasuke-web.com）に書き換えます
-  const baseUrl = 'https://example.com' 
+  const baseUrl = 'https://odds.katasuke-web.com'
 
   return [
     {
